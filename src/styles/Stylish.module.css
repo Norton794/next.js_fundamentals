@@ -1,0 +1,10 @@
+.purple {
+  background-color: #670bbd;
+  color: #fff;
+  height: 100vh;
+}
+
+.purple h1{
+    margin:0;
+    padding:0;
+}
