@@ -4,7 +4,7 @@ export default function Layout(props) {
     return (
         <div className={styles.layout}>
             <div className={styles.header}>
-                <h1>{props.titulo ?? "No title"}</h1>
+                <h1>{props.title ?? "No title"}</h1>
                 <Link href="/">Voltar</Link>
             </div>
             <div className={styles.content}>
