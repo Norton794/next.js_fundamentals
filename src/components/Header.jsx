@@ -1,7 +1,8 @@
-export default function Header() {
+export default function Header({titulo}) {
     return (
         <header>
-            <h1>Fundamentals of Next.js & React</h1>
+            <h1>{titulo}</h1>
+            
         </header>
     )
 }
