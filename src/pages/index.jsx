@@ -11,6 +11,7 @@ export default function Home() {
             <Navigator destination="/stylish" name="Stylish" cor="#9400d3"/>
             <Navigator destination="/jsx" name="Jsx"/>
             <Navigator destination="/example" name="Example" cor="crimson"/>
+            <Navigator destination="/cliente/2/1234" name="Client" cor="green"/>
         </div>
     )
 }
