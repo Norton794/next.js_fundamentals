@@ -13,6 +13,7 @@ export default function Home() {
             <Navigator destination="/example" name="Example" cor="crimson"/>
             <Navigator destination="/cliente/2/1234" name="Client" cor="green"/>
             <Navigator destination="/state" name="State" cor="blue"/>
+            <Navigator destination="/integration_1" name="Integration with the API" cor="#8B8000"/>
         </div>
     )
 }
